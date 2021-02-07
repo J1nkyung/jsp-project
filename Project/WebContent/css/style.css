@@ -1,0 +1,85 @@
+/* CSS Document */
+body,p{
+margin:0;
+padding:0;
+background:#fff;
+font:12px/15px tahoma; 
+}
+
+img{border:0; float:left;}
+.flt{float:left;}
+.flr{float:right;}
+.clr{clear:left;}
+.ds{display:inline;}
+
+#join{position:absolute; clear:float; left:200px; display: table; margin-left: auto; margin-right: auto; display: inline-block;}
+#comments{width:700px; float:right; margin-right:50px;}
+#main_block{width:1004px; text-align:left;}
+#sub_block1{width:1004px;text-align:left; }
+#top_block{ width:1004px; float:left; padding-top:9px;}
+#content_block{ width:1004px; height:600px; float:left;background:#fff; }
+#left_block{ float:left; width:250px; padding:20px; padding-right:0;}
+#right_block{position:relative; width:700px; float:left; margin:50px 15px 0 0;display:inline; }
+#sub_block2{width:1004px;text-align:right;}
+#footer_block{ width:1004px; float:left; background:#888888; margin-top:50px; padding:20px 0 20px 0;}
+#content{resize: none;}
+
+.logout{ margin-bottom:10px;font-size: 14px; display: inline-block; padding: 6px 12px; border:0; border-radius:4px;}
+.btn{ float:right; border:0; margin-right:10px; font-size: 14px;  display: inline-block; padding: 6px 12px; border:0; border-radius:4px;}
+.update{ float:right; margin-right:10px;  font-size: 14px; display: inline-block; padding: 6px 12px; border:0; border-radius:4px;}
+#updatebtn{ float:right; margin-right:10px;  font-size: 14px; display: inline-block; padding: 6px 12px; border:0; border-radius:4px;}
+/*top*/
+.tp_img1{ background:url(../images/crochet.jpg) no-repeat left; background-position:center; background-size:cover; width:1004px; height:319px; float:left;}
+.navi{ width:1004px; float:left; background:#fff;}
+.navi a:hover{ text-decoration:underline; float:left;}
+a:link { color: black; text-decoration: none;}
+a:visited { color: black; text-decoration: none;}
+
+/*left*/
+
+.blk2_lp{ float:left; padding:15px 0 15px 43px;  width:272px; margin-top:1px;}
+.usr{ margin-bottom:10px; color:#36240C; font:11px/17px verdana; float:left; margin-top:6px; width:250px;}
+.txbx{ width:160px; float:left; margin:6px 0 0 0; border:1px solid black; border-radius:4px; }
+.chk{ width:250px; float:left; margin:10px 0 0 0; }
+.chk input{width:13px; height:13px; float:left;}
+.chk span{ font:10px verdana; float:left; color:#36240C; margin:2px 0 0 9px;}
+.usr a{color:#36240C;}
+.usr a:hover{ text-decoration:none; }
+.dat{ width:235px; float:left; margin:16px 0 0 0; color:#fff;}
+.dat span{ font-size:20px; color:#FBDE14;font: bold 16px Georgia; float:left; text-decoration:none; }
+.dat a:hover{text-decoration:underline; }
+
+/*right*/
+.modul{ padding:0 0 0 16px; float:left;width:640px;} 
+.wel{ margin-left:60px; color:#808080; font:22px Trebuchet MS; font-weight:bold; float:left; }
+.inr_bllk{ margin:14px 0 0 0; width:640px; float:left;}
+.txt{ color:#004080; float:left; width:430px;}
+.txt a{color:#004080; text-decoration:underline; float:left; }
+.txt a:hover{ text-decoration:none; }
+.our{ color:#363636; margin-left:10px; float:left; font:18px Trebuchet MS; font-weight:bold;}
+.rdmr{ margin:12px 0 0 0; float:left;}
+.rdmr2{ margin:12px 0 0 15px; float:left;}
+.rp_ln{ margin:18px 0 18px 40px; float:left;}
+.blks{ width:656px; background:url(../images/spn_ln.gif) repeat-y; clear:both; margin:18px 0 0 0; padding-bottom:5px;}
+.special{ width:300px; float:left; padding:0 0 0 50px; margin-top:20px; margin-bottom:50px;}
+.clnt{ width:300px; float:left;padding:0 0 0 32px; margin-top:20px; margin-bottom:50px;}
+.spcl_blk{ background:#FCFEFE; width:656px; float:left; }
+.widt{ margin-top:18px; float:left; width:656px; }
+.tx_widt{ width:386px; float:left;color:#66573A; margin:0 0 0 14px;}
+.lnk{ width:280px; float:left; margin:24px 0 0 0; }
+.lnk a{ color:#004080; font:14px/27px tahoma; float:left; margin:2px -3px 0 10px;position:relative; width:300px;text-decoration:none; }
+.lnk a:hover{ text-decoration:underline;}
+.lnk img{ float:left; margin-top:12px;}
+
+
+/*footer*/
+.cpy{ color:#000000; font:11px Trebuchet MS; float:left; margin-left:225px; width:500px;}
+.cpy a{ color:#ffffff; font:11px Trebuchet MS; }
+.ftr_nv{ margin-left:300px; width:520px; float:left;}
+.ftr_nv a{ color:#ffffff; font: bold 12px Trebuchet MS; float:left; padding:0 13px; text-decoration:none;}
+.ftr_nv span{ color:#ffffff; font: bold 12px Trebuchet MS; float:left; padding:0 13px; margin-bottom:10px;}
+.ftr_nv a:hover{ text-decoration:underline; }
+
+
+
+
